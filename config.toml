@@ -3,3 +3,4 @@ theme = "tokyonight_storm"
 [editor]
 line-number = "relative"
 true-color = true
+rulers = [80]
